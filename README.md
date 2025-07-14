@@ -10,9 +10,9 @@ Each topic is designed to be professionally relevant, practical, and accessible 
 | Week | Topic | Description | Lecture |
 |------|-------|-------------|------------------|
 | 1 | **Why CS Matters in Every Field**<br>Computers in education, healthcare, law, media, design | Understand how computing impacts diverse disciplines and careers |
-| 1 | **Inside a Computer: Hardware & Software**<br>CPU, RAM, OS, apps, mobile devices | Identify basic components of a computer and how they work together |
-| 2 | **Input and Output Devices**<br>Touchscreens, voice assistants, AR/VR, smart home tech | Recognize how input/output devices are used in life and work |
-| 2 | **How Computers Think**<br>Binary, logic gates, data processing | Understand how computers process data using binary logic |
+| 1 | **How Computers Think**<br>Binary, logic gates, ASCII Code, data processing | Understand how computers process data using binary logic |
+| 2 | **Inside a Computer: Hardware & Software**<br>CPU, RAM, OS, apps, mobile devices | Identify basic components of a computer and how they work together|
+| 2 | **Input and Output Devices**<br>Touchscreens, voice assistants, AR/VR, smart home tech | Recognize how input/output devices are used in life and work  |
 | 3 | **Operating Systems & Productivity Tools**<br>Windows, macOS, ChromeOS, Google Workspace, Microsoft 365 | Use OS and tools for academic and professional tasks |
 | 3 | **File Management & Cloud Storage**<br>Google Drive, OneDrive, Dropbox, file types, permissions | Organize and share files across cloud platforms securely |
 | 4 | **Software Types & Use Cases**<br>Word processors, spreadsheets, design/video tools | Choose the right software for writing, research, and projects |
